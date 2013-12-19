@@ -1,6 +1,7 @@
 <?php
 namespace InoveBase;
 
+//teste
 class Module
 {
     public function getConfig()
